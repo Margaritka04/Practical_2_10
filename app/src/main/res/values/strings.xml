@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical_2_10</string>
+    <string name="model">Модель</string>
+    <string name="serialNumber">Серийный номер</string>
+    <string name="price">Цена</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="incorrect_value">Вы ввели неккоректное значение</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+    <string name="developer">Стетюха Маргарита РИБО-04-22</string>
+</resources>
